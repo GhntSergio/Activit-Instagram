@@ -52,7 +52,7 @@ Assurez-vous de respecter les conditions d'utilisation d'Instagram et les règle
 
 ## 📜 Licence
 
-Ce projet est sous la [Licence MIT](https://github.com/GhntSergio/All-projets/blob/main/Activit%C3%A9%20Instagram/LICENSE.md). Voir le fichier [LICENSE.md](https://github.com/GhntSergio/All-projets/blob/main/Activit%C3%A9%20Instagram/LICENSE.md) pour plus de détails.
+Ce projet est sous la [Licence MIT](https://github.com/GhntSergio/Activit-Instagram/blob/main/LICENSE). Voir le fichier [LICENSE](https://github.com/GhntSergio/Activit-Instagram/blob/main/LICENSE) pour plus de détails.
 
 
 Ce README utilise des sections claires et structurées pour présenter le projet, avec des instructions sur la façon de configurer et d'utiliser le script. Assurez-vous d'ajuster les liens et les noms en fonction de votre propre dépôt GitHub et des détails spécifiques de votre projet.
